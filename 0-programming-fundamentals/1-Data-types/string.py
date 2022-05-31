@@ -2,4 +2,5 @@
 # In Python, they start and end with ", ', """ or '''.
 # The following are examples of valid Python strings, "hello", "2.0", 'str', """False""", '''true'''.
 
-full_name = "Mohammed Elzanaty"
+print("Mohammed Elzanaty")
+print('Mohammed Elzanaty')

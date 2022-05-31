@@ -3,10 +3,10 @@
 # ..., -2, -1, 0, 1, 2, ... are all ints in Python.
 
 # positive number
-number = 25
+print(25)
 
 # negative number
-negative_number = -23
+print(-23)
 
 # zero
-zero = 0
+print(0)

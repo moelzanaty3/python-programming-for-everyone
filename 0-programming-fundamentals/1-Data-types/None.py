@@ -5,4 +5,4 @@
 # None is not the same as an empty string ('').
 # Comparing None to any value will return False except None itself.
 
-fullname = None
+print(None)
